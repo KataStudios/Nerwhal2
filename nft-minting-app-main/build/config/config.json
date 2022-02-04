@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF37cFd8fA334A7Bf4841e24a909CA78180d02335",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf37cfd8fa334a7bf4841e24a909ca78180d02335",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Nerwhal NFT",
+  "SYMBOL": "NRWLNFT",
+  "MAX_SUPPLY": 24,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerwhal-nft",
+  "SHOW_BACKGROUND": true
+}
